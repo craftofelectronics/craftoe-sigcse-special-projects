@@ -1,0 +1,57 @@
+A Craft-First Introduction to Electronics
+Matt Jadud, Mel Chua, Sebastian Dziallas
+
+Summary
+
+Recently developed platforms like the Arduino ($20) and Raspberry-Pi ($35) have become accessible means of exploring computing at and near the hardware level. These systems are affordable enough for students of computing to explore the realm where software meets hardware. This summer, we will be developing a series of hands-on laboratories (and supporting textual/visual/video materials) that introduce students to the fundamentals of electronics in the context of these low-cost, open hardware systems by bridging the gap between electronics and computing. To support this work, we request $2253.90 to help cover travel costs and food. Our open work will be released under the GPL, Creative Commons, or other appropriate licenses.
+
+AIMS AND OBJECTIVES
+
+Our aim is to develop a lab-centric approach to introductory digital electronics. Following the work of Clancy et al. [LAB], this will be a collaborative, lab-centric introduction to a topic that is traditionally taught through theory-first lecture. We intend the course to prepare students to continue their explorations of programming, digital electronics, and computing beyond the classroom, empowering them to explore the wealth of materials that open software and hardware systems provide.
+
+CONCEPTUAL FRAMEWORK
+
+Lab-centric instruction is, first and foremost, about encouraging students to engage actively in and out of the classroom [LAB]. A lab-centric approach attempts to move learning that might take place in a homework setting and instead have students engage in that learning when faculty and teaching assistants are present to help provide context and support. Along with building, testing, programming, and creating digital systems, reflective activities (like discussion and writing in laboratory notebooks) will be interspersed throughout the collaborative sessions students engage in.
+
+Our choice of open hardware is not unique. The Arduino has proven to be incredibly popular in the hobbyist (or "maker") space, and is rapidly finding a home in computing and engineering classrooms around the globe [HANDSON]. We are particularly interested in its applicability to traditional crafts, as this provides a means for integration with a broader range of curricula and outreach to a wider range of students [LILYPAD].
+
+METHODOLOGY
+
+Our work breaks down into three distinct periods, with a full-group follow-up taking place during the spring of 2013.
+
+1. Bootstrap. During the first two weeks, the entire team (plus two undergraduate collaborators) will meet at Berea College to begin the design and development process. This work will allow for remote participation through the use of wikis, blogs, and other tools that support real-time remote collaboration and transparency. We will work to make our process accessible to outside communities and employ their feedback to rapidly create new iterations of course materials.
+
+2. Development. The month of July will be spent developing and refining materials for use during the first two course offerings. Team member Mel Chua will work remotely while visiting and researching ABET-certified engineering programs across the US.
+
+3. Delivery. The course will be delivered for the first time during the fall semester of 2012 by Matt Jadud. The group will make revisions for the second offering of the course which will run in the spring of 2013. 
+
+4. Continued Development. At SIGCSE 2013, we will meet as a group to share the results of our work and evaluation in a special session with interested colleagues. Further, we intend to propose a Working Group for ITiCSE 2013 expanding on our work and exploring the intersection of computing, sensing, and ubiquitous computing [SENSE].
+
+OUTCOMES
+
+Our assignments, texts, videos, and other supporting materials will be made available via http://craftofelectronics.org/. This site will serve both as a point of distribution for materials produced as well as a community for interested students and faculty. The design and development process will be open to broad participation; we already have students involved in our mailing list, and will be including them in the design and development process. A complete course will be in place by the end  of the summer of 2012, and will be offered every semester subsequently at Berea College for the foreseeable future. We intend to share our design, implementation and evaluation thereof via a variety of venues, not limited to the ACM SIGCSE conferences (SIGCSE, ITiCSE, and ICER).
+
+TIME
+
+* Matt Jadud and Sebastian Dziallas will be tasked full-time from June 15th through August 2nd on this project. 
+* Mel Chua will be full-time from June 15th through July 1st, and part-time from July 1st through August 2nd.
+* Two undergraduate collaborators will be working full-time on this project from June 15th through August 2nd.
+
+BUDGET 
+* Round-trip travel for Mel Chua
+We request $321.90 to support round-trip travel for Mel Chua from Purdue University (West Lafayette, IN) to Berea College (Berea, KY), a trip of 290 miles (2 * 290 miles * $0.555/mile). Arrive June 15th, depart July 1st.
+
+* Food Costs
+We request $1932 for food over a six week period. Using the per diem rate of $46/day from the U.S. General Services Administration, we calculate 6 weeks of co-location at Dr. Jadud's home during the summer (7 days/week * 6 weeks * $46/day).
+
+* Total
+Our total budget request is $2253.90.
+
+REFERENCES
+[LAB] Titterton, N., Lewis, C. M., & Clancy, M. (2010). Experiences with lab-centric instruction. Computer Science Education (Ed. Y. Ben-David Kolikant) 20(2). 79--102. DOI: 10.1080/08993408.2010.486256
+
+[HANDSON] John Vaughn. 2012. Hands-on computing with Arduino. J. Comput. Sci. Coll. 27, 6 (June 2012), 105-106.
+
+[LILYPAD] Leah Buechley, Mike Eisenberg, Jaime Catchen, and Ali Crockett. 2008. The LilyPad Arduino: using computational textiles to investigate engagement, aesthetics, and diversity in computer science education. In Proceedings of the twenty-sixth annual SIGCHI conference on Human factors in computing systems (CHI '08). ACM, New York, NY, USA, 423-432. DOI=10.1145/1357054.1357123 http://doi.acm.org/10.1145/1357054.1357123
+
+[SENSE] Richards, Michael; Petre, Marian and Bandara, Arosha (2012). Starting with Ubicomp: using the SenseBoard to introduce computing. In: 43rd ACM Technical Symposium on Computer Science Education, 29 February - 3 March 2012, Raleigh, NC.
