@@ -1,5 +1,7 @@
 A Craft-First Introduction to Electronics
-Matt Jadud, Mel Chua, Sebastian Dziallas
+Matt Jadud, Danny Barnes*, Jan Pearce (Berea College), Mel Chua (Purdue University), Sebastian Dziallas* (Olin College)
+
+* Undergraduate collaborator
 
 Summary
 
@@ -19,25 +21,28 @@ METHODOLOGY
 
 Our work breaks down into three distinct periods, with a full-group follow-up taking place during the spring of 2013.
 
-1. Bootstrap. During the first two weeks, the entire team (plus two undergraduate collaborators) will meet at Berea College to begin the design and development process. This work will allow for remote participation through the use of wikis, blogs, and other tools that support real-time remote collaboration and transparency. We will work to make our process accessible to outside communities and employ their feedback to rapidly create new iterations of course materials.
+[ Bootstrap ] During the first two weeks, the entire team (plus two undergraduate collaborators) will meet at Berea College to begin the design and development process. This work will allow for remote participation through the use of wikis, blogs, and other tools that support real-time remote collaboration and transparency. We will work to make our process accessible to outside communities and employ their feedback to rapidly create new iterations of course materials.
 
-2. Development. The month of July will be spent developing and refining materials for use during the first two course offerings. Team member Mel Chua will work remotely while visiting and researching ABET-certified engineering programs across the US.
+[ Development ] The month of July will be spent developing and refining materials for use during the first two course offerings. Team member Mel Chua will work remotely while visiting and researching ABET-certified engineering programs across the US.
 
-3. Delivery. The course will be delivered for the first time during the fall semester of 2012 by Matt Jadud. The group will make revisions for the second offering of the course which will run in the spring of 2013. 
+[ Delivery ] The course will be delivered for the first time during the fall semester of 2012 by Matt Jadud. The group will make revisions for the second offering of the course which will run in the spring of 2013. 
 
-4. Continued Development. At SIGCSE 2013, we will meet as a group to share the results of our work and evaluation in a special session with interested colleagues. Further, we intend to propose a Working Group for ITiCSE 2013 expanding on our work and exploring the intersection of computing, sensing, and ubiquitous computing [SENSE].
+[ Continuation ] At SIGCSE 2013, we will meet as a group to share the results of our work and evaluation in a special session with interested colleagues. Further, we intend to propose a Working Group for ITiCSE 2013 expanding on our work and exploring the intersection of computing, sensing, and ubiquitous computing [SENSE].
 
 OUTCOMES
 
-Our assignments, texts, videos, and other supporting materials will be made available via http://craftofelectronics.org/. This site will serve both as a point of distribution for materials produced as well as an open community of practice centered around learning introductory digital electronics through working on open hardware projects. The material design and development process is open to broad participation; we already have academics and engineers from outside the core team volunteering via our mailing list. Success will be measured both by the quality of student learning and the health of the community thus cultivated. A complete course will be in place by the end  of the summer of 2012, and will be offered every semester subsequently at Berea College for the foreseeable future. We intend to share our design, implementation and evaluation thereof via a variety of venues, not limited to the ACM SIGCSE conferences (SIGCSE, ITiCSE, and ICER).
+Our assignments, texts, videos, and other supporting materials will be made available via http://craftofelectronics.org/. This site will serve both as a point of distribution for materials produced as well as an open community of practice centered around learning introductory digital electronics through working on open hardware projects. The material design and development process is open to broad participation; we already have academics and engineers from outside the core team volunteering via our mailing list. Success will be measured both by the quality of student learning and the health of the community thus cultivated; because our work is open, our intent is to involve others in assessing both the learning activities as well as work produced. A complete course will be in place by the end  of the summer of 2012, and will be offered every semester subsequently at Berea College for the foreseeable future. We intend to share our design, implementation and evaluation thereof via a variety of venues, not limited to the ACM SIGCSE conferences (SIGCSE, ITiCSE, and ICER).
 
 TIME
 
 * Matt Jadud and Sebastian Dziallas will be tasked full-time from June 15th through August 2nd on this project. 
 * Mel Chua will be full-time from June 15th through July 1st, and part-time from July 1st through August 2nd.
-* Two undergraduate collaborators will be working full-time on this project from June 15th through August 2nd.
+* Two undergraduate collaborators (Danny Barnes + TBA) will be working full-time on this project from June 15th through August 2nd.
 
 BUDGET 
+
+Funding to support Danny Barnes (room/board/wage, Berea College) and Sebastian Dziallas (travel, Red Hat POSSE grant, and wage, I2E2 at Olin College) have been secured previously. Here, we request a small amount of travel support and funding for food for the group while working together.
+
 * Round-trip travel for Mel Chua
 We request $321.90 to support round-trip travel for Mel Chua from Purdue University (West Lafayette, IN) to Berea College (Berea, KY), a trip of 290 miles (2 * 290 miles * $0.555/mile). Arrive June 15th, depart July 1st.
 
