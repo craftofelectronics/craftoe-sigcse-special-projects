@@ -21,7 +21,7 @@ The positive effects of pair programming are largely unequivocal, and some of th
 
 A student of computing who owns an Arduino can do anything: build robots, sensors, home automation equipment... the possibilities are endless. But a student who does not leave a course feeling they are empowered to go on and learn more on their own will do nothing whatsoever. In terms of curriculum, we imagine students being able to go on from this course into additional courses in computer science. In terms of life-long learning, we hope to prepare students to grow into the "hobbyist engineer," engaging in the act of making and inventing for the rest of their lives.
 
-Resources and Delievrables
+Resources and Deliverables
 
 There are many resources available to our team. The entire Arduino project is open source and open hardware (http://arduino.cc/), and many resources surrounding it are similarly open or Creative Commons licensed. For theory-related content, we can contribute to and remix "Lessons in Electronic Circuits" by Tony Kuphaldt, a thorough, high-quality text released under the Design Science License (http://openbookproject.net/electricCircuits/). Beyond these cornerstones, we have identified many additional resources available in a variety of formats, be they available in university-sponsored repositories (like the MIT Open Courseware Initiative) or YouTube.
 
@@ -31,7 +31,7 @@ The design and development process will be open to broad participation; we alrea
 
 Expertise
 
-Matt Jadud is an  Assistant Professor of Computer Science at Berea College. He has worked closely with students on research and development projects at the intersection of software and hardware, leveraging the Arduino in robotics and environmental sensing projects; his dissertation area of expertise is the behavior of novice programmers. Mel Chua has recently completed her first year of a PhD at Purdue University in engineering education, having previously worked at Red Hat as a member of the Community Architecture team, leading Red Hat's efforts in educational outreach and support. Sebastian Dziallas is a rising third-year student at the Franklin W. Olin College of Engineering, is passionate about collaborative, hands-on education, and this past semester taught a course at Olin on open source software development. 
+Matt Jadud is an Assistant Professor of Computer Science at Berea College. He has worked closely with students on research and development projects at the intersection of software and hardware, leveraging the Arduino in robotics and environmental sensing projects; his dissertation area of expertise is the behavior of novice programmers. Mel Chua has recently completed her first year of a PhD at Purdue University in engineering education, having previously worked at Red Hat as a member of the Community Architecture team, leading Red Hat's efforts in educational outreach and support. Sebastian Dziallas is a rising third-year student at the Franklin W. Olin College of Engineering, is passionate about collaborative, hands-on education, and this past semester taught a course at Olin on open source software development. 
 
 Matt, Mel, and Sebastian have collaborated closely for over three years through the Teaching Open Source community (http://teachingopensource.org/). They have run workshops around the world for faculty and students, helping them introduce open source collaboration and participation into their classrooms. They are a team that has worked closely together locally and at a distance many times over many years, and expect this project to be a complete success.
 
@@ -39,10 +39,11 @@ Funding
 
 The work on "The Craft of Electronics" is supported (in part) by two other (small) grants: 1) a grant from Red Hat that is intended to foster the creation and sharing of open educational materials (providing travel support for Sebastian), and 2) the I2E2 project at Olin College (PI: Dr. Lynn Andrea Stein), which supports the transformation of undergraduate engineering and computing education (hourly funding support for Sebastian).
 
-Our support to date funding Sebastian first and foremost because he is an undergraduate. Our request to the SIGCSE special projects fund extends this support in two critical ways.
+We request funding Sebastian first and foremost because he is an undergraduate. Our request to the SIGCSE special projects fund extends this support in two critical ways:
 
 1. Round-trip travel for Mel Chua. We request $321.90 to support round-trip travel for Mel Chua from Purdue University (West Lafayette, IN) to Berea College (Berea, KY), a trip of 290 miles (2 * 290 miles * $0.555/mile).
 
 2. Food costs. We request $1932 for food over a six week period. Using the per diem rate of $46/day from the U.S. General Services Administration, we calculate 6 weeks of co-location at Dr. Jadud's home during the summer (7 days/week * 6 weeks * $46/day). 
 
 Our total funding request is, therefore, $2253.90.
+
