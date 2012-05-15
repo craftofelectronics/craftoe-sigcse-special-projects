@@ -3,7 +3,7 @@ Matt Jadud, Mel Chua, Sebastian Dziallas
 
 Summary
 
-Recently developed platforms like the Arduino ($20) and Raspberry-Pi ($35) have become accessible means of exploring computing at and near the hardware level. These systems are affordable enough for students of computing to explore the realm where software meets hardware. This summer, we will be developing a series of hands-on laboratories (and supporting textual/visual/video materials) that introduce students to the fundamentals of electronics in the context of these low-cost, open hardware systems by bridging the gap between electronics and computing. To support this work, we request $2253.90 to help cover travel costs and food. Our open work will be released under the GPL, Creative Commons, or other appropriate licenses.
+Recently developed platforms like the Arduino ($20) and Raspberry-Pi ($35) have become accessible means of exploring computing at and near the hardware level. These systems are affordable enough for beginning students of computing to explore the realm where software meets hardware. This summer, we will develop a series of hands-on laboratories (and supporting textual/visual/video materials) that bridge the gap between electronics and computing by introducing students to the fundamentals of electronics using low-cost, open hardware systems. All work will be released under the GPL, Creative Commons, or other appropriate licenses, leading to an open curriculum usable by both other institutions and independent learners. To support this work, we request $2253.90 to help cover travel costs and food. 
 
 AIMS AND OBJECTIVES
 
@@ -11,7 +11,7 @@ Our aim is to develop a lab-centric approach to introductory digital electronics
 
 CONCEPTUAL FRAMEWORK
 
-Lab-centric instruction is, first and foremost, about encouraging students to engage actively in and out of the classroom [LAB]. A lab-centric approach attempts to move learning that might take place in a homework setting and instead have students engage in that learning when faculty and teaching assistants are present to help provide context and support. Along with building, testing, programming, and creating digital systems, reflective activities (like discussion and writing in laboratory notebooks) will be interspersed throughout the collaborative sessions students engage in.
+Lab-centric instruction encourages students to engage actively in learning in and out of the classroom, emphasizing "learning to do" over "learning about" through hands-on activities when faculty and teaching assistants are present to model behavior and provide context and support [LAB]. Along with building, testing, programming, and creating digital systems, reflective activities (like discussion and writing in laboratory notebooks) will be interspersed throughout the collaborative sessions students engage in.
 
 Our choice of open hardware is not unique. The Arduino has proven to be incredibly popular in the hobbyist (or "maker") space, and is rapidly finding a home in computing and engineering classrooms around the globe [HANDSON]. We are particularly interested in its applicability to traditional crafts, as this provides a means for integration with a broader range of curricula and outreach to a wider range of students [LILYPAD].
 
@@ -29,7 +29,7 @@ Our work breaks down into three distinct periods, with a full-group follow-up ta
 
 OUTCOMES
 
-Our assignments, texts, videos, and other supporting materials will be made available via http://craftofelectronics.org/. This site will serve both as a point of distribution for materials produced as well as a community for interested students and faculty. The design and development process will be open to broad participation; we already have students involved in our mailing list, and will be including them in the design and development process. A complete course will be in place by the end  of the summer of 2012, and will be offered every semester subsequently at Berea College for the foreseeable future. We intend to share our design, implementation and evaluation thereof via a variety of venues, not limited to the ACM SIGCSE conferences (SIGCSE, ITiCSE, and ICER).
+Our assignments, texts, videos, and other supporting materials will be made available via http://craftofelectronics.org/. This site will serve both as a point of distribution for materials produced as well as a community for interested students and faculty. The design and development process will be open to broad participation; we already have students and engineers from multiple institutions involved in our mailing list, and will be including them in the design and development process. A complete course will be in place by the end  of the summer of 2012, and will be offered every semester subsequently at Berea College for the foreseeable future. We intend to share our design, implementation and evaluation thereof via a variety of venues, not limited to the ACM SIGCSE conferences (SIGCSE, ITiCSE, and ICER).
 
 TIME
 
